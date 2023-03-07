@@ -1,1 +1,49 @@
 /* Write your CSS here! */
+h1{
+    padding-left: 10%;
+}
+
+p {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+body {
+    margin: 8px;
+}
+
+.funParagraph {
+    color: green;
+}
+
+#mainHeading {
+    color: red;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  ul{
+    margin-left: 25px;
+  }
+
+  li {
+    display: inline;
+    margin: 10px;
+    text-align: center;
+  }
+
+  .tinyImages{
+    margin: 20px;
+  }
+
+  .tinyImages {
+    margin: 20px;
+    padding: 0 4px;
+  }
+  
